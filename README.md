@@ -1,2 +1,0 @@
-# Juego
-Trabajo Parcial
